@@ -1,0 +1,14 @@
+# packages
+node_modules
+venv
+
+# download output
+bing_images
+
+# data and models
+datasets/*
+!datasets/.gitkeep
+*.pt
+
+# macOS
+.DS_Store
