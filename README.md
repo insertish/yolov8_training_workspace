@@ -94,7 +94,7 @@ At the top, you can now select a model, this will depend on your hardware but yo
 
 I would recommend just using ViT-B since it has the best speed / accuracy compromise for this work.
 
-<video src="assets/demo.mp4" controls muted autoplay></video>
+https://github.com/insertish/yolov8_training_workspace/assets/38285861/f505bc77-ad91-49c0-8c26-2da610173373
 
 At this point, you can either choose to make segments or rectangles depending on your use-case.
 
