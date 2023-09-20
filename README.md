@@ -9,6 +9,10 @@ You need to at least have:
 
 You may either install all the packages within a virtual environment or install only auxiliary packages in the virtual env. I recommend doing a global installation so you can access the YOLO CLI from anywhere.
 
+### Using NixOS
+
+Just run `nix-shell`.
+
 ### Global installation
 
 Install PyTorch: https://pytorch.org/get-started/locally/
